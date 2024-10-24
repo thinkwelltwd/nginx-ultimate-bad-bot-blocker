@@ -1,10 +1,10 @@
-Buck
-HTTP::Lite
-NetLyzer
-Nikto
-PeoplePal
-SiteLockSpider
-SiteSucker
-SocialRankIOBot
-True_Robot
-VoidEYE
+HaosouSpider
+LWP::Simple
+LinqiaScrapeBot
+Mojeek
+Morfeus Fucking Scanner
+OpenLinkProfiler
+PageGrabber
+ReGet
+WebFuck
+com.plumanalytics
