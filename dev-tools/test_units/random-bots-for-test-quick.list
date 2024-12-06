@@ -1,10 +1,10 @@
-AIBOT
-Fimap
-GetRight
-NICErsPRO
-NetAnts
-Pavuk
-RankFlex
-Screaming
-WinHTTrack
-polaris version
+FlashGet
+HTTP::Lite
+LWP::Simple
+Lftp
+Mass Downloader
+NetLyzer
+NimbleCrawler
+PECL::HTTP
+Sucuri
+Thumbor
